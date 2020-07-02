@@ -8,15 +8,15 @@ This explains the various components of the Firebase Console.
 
 # Getting Started
 
--Go to firebase.com.
--If you do not have an account create one.
--Go to new project.
--Enter your project name.
--
--
+Go to firebase.com.
+If you do not have an account create one.
+Go to new project.
+Enter your project name.
+
+
 Click the android icon
--Enter your project package i.e
+Enter your project package i.e
 
 ```java
-com.chad.firebasetutorial:
+com.chad.firebasetutorial
 ```
