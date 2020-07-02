@@ -8,16 +8,24 @@ This explains the various components of the Firebase Console.
 
 # Getting Started
 
-Go to firebase.com.
+Go to firebase.google.com
 
-If you do not have an account create one.
+If you do not have an account create one
 
-Go to new project.
+Go to  FireBase Console.
+
+Go to Add project.
 
 Enter your project name.
 
+Enable Google Analytics for the Project
 
-Click the android icon
+Open the new Project
+
+
+
+Click the android icon.
+
 Enter your project package i.e
 
 ```java
