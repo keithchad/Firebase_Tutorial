@@ -40,12 +40,12 @@ Download the google-services.json file and add it to your Android app module roo
 Add the below code to your project-level build.gradle(<project>/build.gradle):
 ```groovy
 buldscript {
-repositories{
-google()
+  repositories{
+     google()
 }
 dependencies {
 classpath 'com.google.gms:google-services:4.3.3' //Add this line
-}
+ }
 }
 ```
 
